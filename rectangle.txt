@@ -1,3 +1,5 @@
 rectangle 
 blue
-aaaaa
+aaaaabbb 
+\nbbb 
+\kkkkk 
